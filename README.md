@@ -1,5 +1,4 @@
 # pogodynka
-# whoisonduty
 
 ## Tabela zawartości
 * [Podstawowe informacje](#podstawowe-informacje)
@@ -11,6 +10,8 @@
 
 ## Podstawowe informacje
 pogodynka - aplikacja pobierająca dane z otwartych danych źródłowych dotyczących bieżących danych pogodowych w miastach. Po pobraniu danych zapisuje je do pliku csv oraz tworzy wykresy dla pomiarów.
+Wykorzystano dane publiczne Instytutu Meteorologii i Gospodarki Wodnej ze strony:
+* **Instytut Meteorologii i Gospodarki Wodnej** - [IMGW](https://danepubliczne.imgw.pl/apiinfo)
 	
 ## Technologie
 
