@@ -22,9 +22,9 @@ pogodynka - aplikacja pobierająca dane z otwartych danych źródłowych dotycz�
 
 ## Screeny
 
-![Screen1](src/images/kołowy.jpg)
-![Screen2](src/images/słupkowy.jpg)
-![Screen3](src/images/punktowy.jpg)
+![Screen1](images/kołowy.jpg)
+![Screen2](images/słupkowy.jpg)
+![Screen3](images/punktowy.jpg)
 
 ## Setup
 
